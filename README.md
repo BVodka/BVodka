@@ -1,5 +1,12 @@
 Hi 👋 My name is Coker Busayo Oladipupo
-=======================================DevOps Engineer | Data Afficiando---------------------------------I am on a learning journey to become a Cloud|DevOps Engineer and I love all things data.* 🌍  I'm based in Nigeria* ✉️  You can contact me at [coker.busayo@gmail.com](mailto:coker.busayo@gmail.com)* 🚀  I'm currently working on [Learning DevOps](http://darey.io)* 🧠  I'm learning Terraform and Cloud Formation* 🤝  I'm open to collaborating on Projects revolving aroud Cloud, Analytics and SaaS* ⚡  I write poetry @cokeroladipupo
+=======================================DevOps Engineer | Data Afficiando---------------------------------
+I am on a learning journey to become a Cloud|DevOps Engineer and I love all things data.
+* 🌍  I'm based in Nigeria* 
+* ✉️  You can contact me at [coker.busayo@gmail.com](mailto:coker.busayo@gmail.com)* 
+* 🚀  I'm currently working on [Learning DevOps](http://darey.io)*
+* 🧠  I'm learning Terraform and Cloud Formation* 
+* 🤝  I'm open to collaborating on Projects revolving aroud Cloud, Analytics and SaaS* 
+* ⚡  I write poetry @cokeroladipupo*
 
 <a href="https://www.github.com/BVodka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BVodka?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
