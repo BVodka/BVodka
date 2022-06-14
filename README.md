@@ -1,5 +1,6 @@
 Hi 👋 My name is Coker Busayo Oladipupo
-=======================================DevOps Engineer | Data Afficiando---------------------------------
+=======================================
+DevOps Engineer | Data Afficiando---------------------------------
 I am on a learning journey to become a Cloud|DevOps Engineer and I love all things data.
 * 🌍  I'm based in Nigeria* 
 * ✉️  You can contact me at [coker.busayo@gmail.com](mailto:coker.busayo@gmail.com)* 
